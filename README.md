@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanvi1612singh
+- 👋 Hi, I’m Tanvi Singh.
 - 👀 I’m interested in coding, reading books, and sports.
 - 🌱 I’m currently learning OOPs.
   
